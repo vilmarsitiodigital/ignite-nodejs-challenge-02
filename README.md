@@ -121,7 +121,7 @@ Depois que sua solicitação pull for mesclada, você pode excluir seu branch
 
 ## 📝 Licença
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Este projeto está licenciado sob a Licença MIT - consulte a [LICENÇA](LICENSE) para mais detalhes.
 
 ---
 
